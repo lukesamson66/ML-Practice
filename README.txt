@@ -1,7 +1,5 @@
 Lucas Samson
-CMPUT 466 - Winter 2025
 jlsamson@ualberta.ca
-1745903
 
 
 Project:
